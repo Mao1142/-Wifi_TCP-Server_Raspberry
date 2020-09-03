@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Raspberry_server", "Raspberry_server\Raspberry_server.vcxproj", "{A1FCEB77-5D67-4266-B741-1C7673F9854E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1FCEB77-5D67-4266-B741-1C7673F9854E}.Debug|ARM.ActiveCfg = Debug|ARM
+		{A1FCEB77-5D67-4266-B741-1C7673F9854E}.Debug|ARM.Build.0 = Debug|ARM
+		{A1FCEB77-5D67-4266-B741-1C7673F9854E}.Debug|ARM.Deploy.0 = Debug|ARM
+		{A1FCEB77-5D67-4266-B741-1C7673F9854E}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{A1FCEB77-5D67-4266-B741-1C7673F9854E}.Debug|ARM64.Build.0 = Debug|ARM64
+		{A1FCEB77-5D67-4266-B741-1C7673F9854E}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{A1FCEB77-5D67-4266-B741-1C7673F9854E}.Release|ARM.ActiveCfg = Release|ARM
+		{A1FCEB77-5D67-4266-B741-1C7673F9854E}.Release|ARM.Build.0 = Release|ARM
+		{A1FCEB77-5D67-4266-B741-1C7673F9854E}.Release|ARM.Deploy.0 = Release|ARM
+		{A1FCEB77-5D67-4266-B741-1C7673F9854E}.Release|ARM64.ActiveCfg = Release|ARM64
+		{A1FCEB77-5D67-4266-B741-1C7673F9854E}.Release|ARM64.Build.0 = Release|ARM64
+		{A1FCEB77-5D67-4266-B741-1C7673F9854E}.Release|ARM64.Deploy.0 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0705886D-7FB9-43B7-941F-66446B8D322E}
+	EndGlobalSection
+EndGlobal
